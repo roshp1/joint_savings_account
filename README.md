@@ -1,3 +1,2 @@
 # joint_savings_account
-https://user-images.githubusercontent.com/88936081/153115980-e5501c45-a8fd-44de-b900-60923b7f6e90.png![image](https://user-images.githubusercontent.com/88936081/153116254-de7d6e97-02aa-41aa-9dde-c4779e1c3097.png)
-
+<img width="1188" alt="Screen Shot 1" src="https://user-images.githubusercontent.com/88936081/153116504-653526e5-8e1e-4fdc-9a3c-8392b59ce638.png">
